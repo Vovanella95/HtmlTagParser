@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication8", "ConsoleApplication8\ConsoleApplication8.csproj", "{55857458-FEA6-4792-82D5-A585C1FE5BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlParser", "..\..\..\TechAnalyzer\HtmlParser\HtmlParser.csproj", "{965F51EB-E9B7-4F1F-A59C-3500FED3868E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55857458-FEA6-4792-82D5-A585C1FE5BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55857458-FEA6-4792-82D5-A585C1FE5BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55857458-FEA6-4792-82D5-A585C1FE5BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55857458-FEA6-4792-82D5-A585C1FE5BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{965F51EB-E9B7-4F1F-A59C-3500FED3868E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965F51EB-E9B7-4F1F-A59C-3500FED3868E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965F51EB-E9B7-4F1F-A59C-3500FED3868E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965F51EB-E9B7-4F1F-A59C-3500FED3868E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
